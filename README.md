@@ -27,7 +27,7 @@ n8n-docker-setup/
 │── README.md # Documentation
 
 yaml
-Copy code
+
 
 ---
 
@@ -67,6 +67,8 @@ docker compose up -d
 n8n → http://localhost:5678
 
 pgAdmin → http://localhost:8080
+
+---
 
 🐳 Docker Concepts Learned
 While building this project, I learned and practiced:
